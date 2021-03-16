@@ -11,9 +11,9 @@ From the above pictures, you can see that overall, Green Stocks performed much b
 
 ![](VBA_Challenge_2017.PNG) ![](VBA_Challenge_2018.PNG)
 
-The above pictures show the run times for the refactored script. The below pictures will show the previous run times before the script was refactored.\
+The above pictures show the run times for the refactored script. The below pictures will show the previous run times before the script was refactored.
 
-![](VBA_Module_2017.PNG) ![](VVBA_Module_2018.PNG)
+![](VBA_Module_2017.PNG) ![](VBA_Module_2018.PNG)
 
 As seen in these pictures, the refactored script greatly increased the run times. This will be very beneficial to Steve as he adds more stocks to his research. The lower run times indicate that the code is running more efficiently and quicker. As datasets increase, Steve will be able to run the code quicker than previously.
 
